@@ -1,0 +1,7 @@
+Positive 
+
+1girl, 1::artist:ningen mame::, +0.5::artist:ciloranko::, 0.5::artist:quasarcake::, 1.2::artist:azuuru::, 1.3::artist:healthyman::, year 2025, +3::shiny skin::, 2::Masterpiece, best quality, amazing quality, highres, absurdres ::, -2::simple illustration, downscaled ::, best illustration, 1.5::waifu2x::, HIGH CONTRAST, very aesthetic, masterpiece, no text, +2::realistic::, fantasy, -3::heart mark::, 3::white background::, cowboy shot,
+
+
+Negative
+lowres, artistic error, film grain, scan artifacts, worst quality, bad quality, jpeg artifacts, very displeasing, chromatic aberration, dithering, halftone, screentone, multiple views, logo, too many watermarks, negative space, blank page, nsfw, lowres, artistic error, film grain, scan artifacts, worst quality, bad quality, jpeg artifacts, very displeasing, chromatic aberration, dithering, halftone, screentone, multiple views, logo, too many watermarks, negative space, border, photo_inset, 5::people, crowd, passenger::, 1::deformed ::, 5::background animal, BACKGROUND FOX, bad hand, spiral-only eyes, empty eyes, lazy eyes, deformed hands::, greyscale, 1::bb (baalbuddy)::, black border, 5::simple background, blur, BACKGROUND WORD, thick eyebrows::, 3::watercolor, painterly, anime background, yellow lighting::, 1.5::shiny skin::, overexposed, blown out highlights, normal eyebrow, -5::NATURE HANDS, NATURE ITEMS::, extra characters, animal, fox girl, multiple tails, 3::border line::

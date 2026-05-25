@@ -1,0 +1,20 @@
+[POSITIVE]
+1::artist:ningen mame::, +0.5::artist:ciloranko::, 0.5::artist:quasarcake::, 1.2::artist:azuuru::, 1.3::artist:healthyman::, year 2025, +3::shiny skin::, 2::Masterpiece, best quality, amazing quality, highres, absurdres ::, -2::simple illustration, downscaled ::, best illustration, 1.5::waifu2x::, HIGH CONTRAST, very aesthetic, masterpiece, no text, +2::realistic::, fantasy, light on front, -3::heart mark::, white background, cowboy shot, standing,
+
+1girl, solo, 
+kirino nao, 17 years old, high school girl,
+
+black hair, bob cut, short hair, hair tucked behind ear, inward curling hair,
+hazel eyes, warm eyes,
+fair skin, freckles, nose freckles,
+petite, slim, small hands, delicate frame,
+
+school uniform, japanese school uniform, serafuku, dark yellow sailor collar, white shirt,
+long sleeves,
+pleated skirt, pink check skirt, kneehighs, loafers,
+silver bracelet, thin bracelet,
+leather notebook, holding notebook, small notebook,
+ink-stained fingers,
+
+[NEGATIVE]
+lowres, artistic error, film grain, scan artifacts, worst quality, bad quality, jpeg artifacts, very displeasing, chromatic aberration, dithering, halftone, screentone, multiple views, logo, too many watermarks, negative space, blank page, text, 3::vest, uchikake::, logo, signature, watermark, too many watermarks, 0.4::artist:nameo (judgemasterkou), artist:matsunaga kouyou::, artist collaboration, chibi, 1990s (style), bad anatomy, distorted anatomy, disfigured, bad hands, missing finger, extra digits, mutation, extra arms, extra legs, long neck, bad feet, very displeasing, undetailed eyes, multiple views, negative space, blank page, variant set, large variant set, 4koma, 2koma, oekaki, halftone, screentone, artistic error, film grain, scan artifacts, jpeg artifacts, chromatic aberration, dithering, disorganized colors, lowres, worst quality, bad quality, cheesy, sloppiness, unfinished, Incomplete, bad anatomy, bad hands, extra fingers, fewer fingers, 
