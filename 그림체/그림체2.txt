@@ -1,0 +1,20 @@
+1girl, 3::cowboy shot::, white background, light from front, shiny skin,
+looking aside, -1::smile::, -1::chibi child::,
+
+black hair, short hair, contemporary,
+school uniform, red small ribbon, white sweater, 
+pink checked skirt, over-the-knee socks, zettai ryouiki,
+-1::empty eyes::,
+
+1.4::meecosme::, 3.5::hiramedousa, ama mitsuki::, 1::murata yuusuke::,
+0.9::mangmoongming::, 0.5::92m, ban! (bansankan)::, 0.4::poriuretan::, 0.7::qiandaiyiyu::,
+2.2::blender (medium)::, 1.1::photorealistic::, -0.1::realistic::,
+0.7::40010prototype::, 0.8::mika pikazo::,
+0.1::dino (dinoartforame), shexyo, modare, ru zhai, anato finnstark, omone hokoma agm::,
+1::jack dempa::, 3::henreader::, 2::sekiya asami, haguhagu (rinjuu circus)::,
+-6::multiple others::
+
+NEGATIVE
+tan,
+1:: 3d, very wide shot, scenery,eyewear ::
+1:: chart ,expression chart,multiple expressions,chibi, mature female,aged up, dc comics, figure,figure (medium) ,  collage,ugly,old,oil painting (medium), photo (object) , ribs, abs, fat,blurry, lowres, error, film grain, scan artifacts, worst quality, bad quality jpeg artifacts, very displeasing,  logo, too many watermarks, white blank page, blank page,text::
